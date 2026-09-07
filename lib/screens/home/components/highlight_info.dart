@@ -41,7 +41,7 @@ class HighLightsInfo extends StatelessWidget {
           children: [
             HighLight(
             Counter: AnimatedCounter(
-              value: 2, 
+              value: 3, 
               text: "+",
             ),
             label: "Languages",
@@ -62,7 +62,7 @@ class HighLightsInfo extends StatelessWidget {
         children: [
           HighLight(
             Counter: AnimatedCounter(
-              value: 4, 
+              value: 8, 
               text: "+",
             ),
             label: "Github Projects",

@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:portfolio/constants.dart';
 import 'package:portfolio/models/project.dart';
-import 'package:portfolio/responsive.dart';
 
 class ProjectCard extends StatelessWidget {
   const ProjectCard({super.key, required this.project});
